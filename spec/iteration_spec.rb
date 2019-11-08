@@ -32,3 +32,4 @@ describe "Write a method called \"total_even_pairs\"" do
     end
   end
 end
+
